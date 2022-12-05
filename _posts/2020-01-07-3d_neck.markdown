@@ -1,0 +1,12 @@
+---
+layout: post
+title: Data-Driven 3D Neck Modeling and Animation
+image: 3d_neck_thumbnail.png
+date: 2020-01-07 0:0:0 +0
+tags: [paper]
+categories: paper
+pdf: 3d_neck.pdf
+author: Yilong Liu, <b>Chengwei Zheng</b>, Feng Xu, Xin Tong, Baining Guo
+publish: IEEE Transactions on Visualization Computer Graphics (TVCG) 2020
+video: https://www.youtube.com/watch?v=Fu1cgUH36JU
+---
