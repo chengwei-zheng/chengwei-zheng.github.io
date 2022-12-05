@@ -10,21 +10,25 @@ layout: home
   {% assign currentPage = 1 %}
 {% endif %}
 
-{% include header.html %}
+{% include cv.html %}
+
+<h2> Publications </h2>
 <div class="c-posts o-opacity" data-page="{{ currentPage }}" data-totalPages="{{ paginator.total_pages }}">
   {% for post in site.posts limit:site.paginate offset:offset %}
   <article class="c-post">
     {% if post.image %}
     <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/" | prepend: site.baseurl | append: post.image}})"
-        href="{{post.url | prepend: site.baseurl}}"></a>
+        href="{{"/pdf/" | append: post.pdf}}"></a>
     {% else %} {% endif %}
     <div class="c-post-content">
       <h2 class="c-post-title">
         <a href="{{"/pdf/" | append: post.pdf}}">{{post.title}}</a>
       </h2>
-	  <p>{{post.author}}</p>
-	  <p>{{post.publish}}</p>
-	  <a href="{{"/pdf/" | append: post.pdf}}">paper</a> <a href="{{post.video}}">video</a>
+	  <p style="margin-bottom: 5px;">{{post.author}}</p>
+	  <p style="margin-bottom: 5px;">{{post.publish}}</p>
+	  <a href="{{"/pdf/" | append: post.pdf}}">paper</a>
+	  <span style="margin-left:10px;"> </span>
+	  <a href="{{post.video}}">video</a>
       <!--<p>{{ post.content | strip_html | truncatewords: 15 }}</p>-->
       <!--<span class="c-post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>-->
       <!--<span class="c-post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words |

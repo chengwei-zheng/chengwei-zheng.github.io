@@ -33,16 +33,16 @@
     border-radius: 10px 0 0 10px;
     background-color: rgba(220,235,245,0.2);
     background-size: contain;
-	background-repeat:no-repeat;
+	background-repeat: no-repeat;
     background-position: 50% 50%;
   }
   .c-post-content {
     padding: 15px;
     width: 70%;
     .c-post-title {
-      font-size: 30px;
+      font-size: 24px;
       font-weight: 400;
-      margin: 0 0 15px;
+      margin: 0 0 5px;
       a {
         text-decoration: none;
         color: $blue-dark;
