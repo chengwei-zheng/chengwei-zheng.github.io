@@ -7,6 +7,6 @@ tags: [paper]
 categories: paper
 pdf: DTexFusion.pdf
 author: <b>Chengwei Zheng</b> and Feng Xu
-publish: IEEE Transactions on Visualization Computer Graphics (TVCG) 2021
+publish: IEEE Transactions on Visualization Computer Graphics (TVCG), 2021
 video: https://www.youtube.com/watch?v=cEYEDPh1Vng
 ---

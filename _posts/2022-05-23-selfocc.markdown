@@ -7,6 +7,6 @@ tags: [paper]
 categories: paper
 pdf: selfocc.pdf
 author: <b>Chengwei Zheng</b>, Wenbin Lin, Feng Xu
-publish: IEEE Transactions on Visualization Computer Graphics (TVCG) 2022
+publish: IEEE Transactions on Visualization Computer Graphics (TVCG), 2022
 video: https://www.youtube.com/watch?v=RsuqNR8BTks
 ---

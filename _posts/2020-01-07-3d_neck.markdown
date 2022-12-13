@@ -7,6 +7,6 @@ tags: [paper]
 categories: paper
 pdf: 3d_neck.pdf
 author: Yilong Liu, <b>Chengwei Zheng</b>, Feng Xu, Xin Tong, Baining Guo
-publish: IEEE Transactions on Visualization Computer Graphics (TVCG) 2020
+publish: IEEE Transactions on Visualization Computer Graphics (TVCG), 2020
 video: https://www.youtube.com/watch?v=Fu1cgUH36JU
 ---
