@@ -43,6 +43,8 @@ layout: home
   {% endfor %}
 </div> <!-- /.c-posts -->
 
+{% include addition.html %}
+
 {% assign postCount = site.posts | size %}
 {% assign postsCovered = site.paginate | plus:offset %}
 {% if postsCovered < postCount %}
