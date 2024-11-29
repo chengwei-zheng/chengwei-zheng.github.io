@@ -1,0 +1,13 @@
+---
+layout: post
+title: ReLoo&#58; Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild
+image: ReLoo_thumbnail.png
+date: 2024-10-2 0:0:0 +0
+tags: [paper]
+categories: paper
+pdf: ReLoo.pdf
+author: Chen Guo*, Tianjian Jiang*, Manuel Kaufmann, <b>Chengwei Zheng</b>, Julien Valentin, Jie Song, Otmar Hilliges
+publish: European Conference on Computer Vision (ECCV), 2024
+video: https://www.youtube.com/watch?v=MSSDDk5p270
+project: https://moygcc.github.io/ReLoo/
+---

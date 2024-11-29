@@ -1,0 +1,13 @@
+---
+layout: post
+title: HSR&#58; Holistic 3D Human-Scene Reconstruction from Monocular Videos
+image: HSR_thumbnail.png
+date: 2024-10-1 0:0:0 +0
+tags: [paper]
+categories: paper
+pdf: HSR.pdf
+author: Lixin Xue, Chen Guo, <b>Chengwei Zheng</b>, Fangjinhua Wang, Tianjian Jiang, Hsuan-I Ho, Manuel Kaufmann, Jie Song, Otmar Hilliges
+publish: European Conference on Computer Vision (ECCV), 2024
+video: https://www.youtube.com/watch?v=SIT4ErJpDZA
+project: https://lxxue.github.io/human-scene-recon/
+---
