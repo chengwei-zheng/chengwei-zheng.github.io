@@ -1,0 +1,14 @@
+---
+layout: post
+title: GSTAR&#58; Gaussian Surface Tracking and Reconstruction
+image: GSTAR_thumbnail.png
+date: 2025-01-17 0:0:0 +0
+tags: [paper]
+categories: paper
+pdf: GSTAR.pdf
+author: Chen Guo*, Tianjian Jiang*, Manuel Kaufmann, <b>Chengwei Zheng</b>, Julien Valentin, Jie Song, Otmar Hilliges
+author: <b>Chengwei Zheng</b>, Lixin Xue, Juan Zarate, Jie Song
+publish: arXiv preprint, 2025
+video: https://www.youtube.com/watch?v=Fwby4PrjFeM
+project: https://chengwei-zheng.github.io/GSTAR/
+---

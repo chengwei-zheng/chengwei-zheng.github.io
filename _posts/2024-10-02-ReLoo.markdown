@@ -2,7 +2,7 @@
 layout: post
 title: ReLoo&#58; Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild
 image: ReLoo_thumbnail.png
-date: 2024-10-2 0:0:0 +0
+date: 2024-10-02 0:0:0 +0
 tags: [paper]
 categories: paper
 pdf: ReLoo.pdf

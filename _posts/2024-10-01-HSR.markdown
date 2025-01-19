@@ -2,7 +2,7 @@
 layout: post
 title: HSR&#58; Holistic 3D Human-Scene Reconstruction from Monocular Videos
 image: HSR_thumbnail.png
-date: 2024-10-1 0:0:0 +0
+date: 2024-10-01 0:0:0 +0
 tags: [paper]
 categories: paper
 pdf: HSR.pdf
