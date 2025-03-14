@@ -1,13 +1,13 @@
 ---
 layout: post
-title: GSTAR&#58; Gaussian Surface Tracking and Reconstruction
-image: GSTAR_thumbnail.png
+title: GauSTAR&#58; Gaussian Surface Tracking and Reconstruction
+image: GauSTAR_thumbnail.png
 date: 2025-01-17 0:0:0 +0
 tags: [paper]
 categories: paper
-pdf: GSTAR.pdf
+pdf: GauSTAR.pdf
 author: <b>Chengwei Zheng</b>, Lixin Xue, Juan Zarate, Jie Song
-publish: arXiv preprint, 2025
-video: https://www.youtube.com/watch?v=Fwby4PrjFeM
-project: https://eth-ait.github.io/GSTAR/
+publish: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+video: https://www.youtube.com/watch?v=NQALobcY6vk
+project: https://eth-ait.github.io/GauSTAR/
 ---
