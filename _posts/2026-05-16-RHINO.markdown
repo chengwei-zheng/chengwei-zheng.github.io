@@ -1,0 +1,13 @@
+---
+layout: post
+title: RHINO&#58; Reconstructing Human Interactions with Novel Objects from Monocular Videos
+image: rhino_thumbnail.jpg
+date: 2026-05-16 0:0:0 +0
+tags: [paper]
+categories: paper
+pdf: RHINO.pdf
+author: Lixin Xue, <b>Chengwei Zheng</b>, Georgios Paschalidis, Chen Guo, Manuel Kaufmann, Juan Zarate, Dimitrios Tzionas
+publish: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+video: https://www.youtube.com/watch?v=r6Q_6quGclg
+project: https://lxxue.github.io/RHINO/
+---
