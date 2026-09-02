@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OcclusionFusion&#58; Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction
-image: OcclusionFusion_thumbnail.png
+image: OcclusionFusion_thumbnail.jpg
 date: 2022-03-14 0:0:0 +0
 tags: [paper]
 categories: paper

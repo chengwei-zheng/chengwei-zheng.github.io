@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DTexFusion&#58; Dynamic Texture Fusion using a Consumer RGBD Sensor
-image: DTexFusion_thumbnail.png
+image: DTexFusion_thumbnail.jpg
 date: 2021-03-06 0:0:0 +0
 tags: [paper]
 categories: paper

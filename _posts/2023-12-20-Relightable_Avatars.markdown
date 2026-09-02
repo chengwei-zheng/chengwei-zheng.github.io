@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Relightable and Animatable Neural Avatars from Videos
-image: Relightable_Avatars_thumbnail.png
+image: Relightable_Avatars_thumbnail.jpg
 date: 2023-12-20 0:0:0 +0
 tags: [paper]
 categories: paper

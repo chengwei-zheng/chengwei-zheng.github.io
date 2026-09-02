@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EditableNeRF&#58; Editing Topologically Varying Neural Radiance Fields by Key Points
-image: EditableNeRF_thumbnail.png
+image: EditableNeRF_thumbnail.jpg
 date: 2022-12-07 0:0:0 +0
 tags: [paper]
 categories: paper

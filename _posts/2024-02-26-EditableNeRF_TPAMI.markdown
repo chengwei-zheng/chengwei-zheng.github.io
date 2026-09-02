@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EditableNeRF&#58; Editing Topologically Varying Neural Radiance Fields by Key Points
-image: EditableNeRF_TPAMI_thumbnail.png
+image: EditableNeRF_TPAMI_thumbnail.jpg
 date: 2024-02-26 0:0:0 +0
 tags: [paper]
 categories: paper

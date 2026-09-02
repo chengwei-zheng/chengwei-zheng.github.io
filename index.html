@@ -43,6 +43,34 @@ layout: home
   {% endfor %}
 </div> <!-- /.c-posts -->
 
+<h2> Projects </h2>
+<div class="c-posts o-opacity">
+  <article class="c-post">
+    <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/vvh_thumbnail.jpg" | prepend: site.baseurl}})"
+        href="https://volumetric-capture.ait.ethz.ch/"></a>
+    <div class="c-post-content">
+      <h2 class="c-post-title">
+        <a href="https://volumetric-capture.ait.ethz.ch/">Multi-Camera Volumetric Capture Facility</a>
+      </h2>
+	  <p style="margin-bottom: 5px;">2025</p>
+	  <p style="margin-bottom: 5px;">The Volumetric Vision Hub is a large-scale, markerless capture facility at ETH Zürich's AIT Lab for high-end dynamic 3D scene reconstruction, supporting research on human avatars and 4D datasets. I contributed to its development, focusing on dynamic mesh reconstruction and multi-camera calibration.</p>
+	  <a href="https://volumetric-capture.ait.ethz.ch/">Project</a>
+    </div>
+  </article> <!-- /.c-post -->
+  <article class="c-post">
+    <a class="c-post-thumbnail o-opacity" style="background-image: url({{"/images/vestir_thumbnail.jpg" | prepend: site.baseurl}})"
+        href="https://vestir.ai/"></a>
+    <div class="c-post-content">
+      <h2 class="c-post-title">
+        <a href="https://vestir.ai/">AI Virtual Fitting Room</a>
+      </h2>
+	  <p style="margin-bottom: 5px;">2025</p>
+	  <p style="margin-bottom: 5px;">Vestir is an AI-powered virtual fitting room startup that lets users preview how clothes look on them without physically trying them on. I led the development of its capture system.</p>
+	  <a href="https://vestir.ai/">Project</a>
+    </div>
+  </article> <!-- /.c-post -->
+</div> <!-- /.c-posts -->
+
 {% include addition.html %}
 
 {% assign postCount = site.posts | size %}

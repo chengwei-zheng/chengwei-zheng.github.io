@@ -1,0 +1,28 @@
+/* ===============
+	SERVICE TAGS
+=============== */
+
+.c-service-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.c-service-tag {
+  display: inline-block;
+  padding: 6px 16px;
+  font-size: 15px;
+  line-height: 1.4;
+  color: $darkest;
+  background-color: rgba(220, 235, 245, 0.5);
+  border: 1px solid $blue-lighter;
+  border-radius: 20px;
+  cursor: default;
+  transition: $global-transition;
+  &:hover {
+    background-color: rgba(220, 235, 245, 0.9);
+    border-color: $primary-color;
+  }
+}

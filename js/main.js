@@ -84,6 +84,21 @@ $(document).ready(function () {
 
   });
 
+  /* =======================================
+  // Build email links at runtime (anti-scraping)
+  ======================================= */
+
+  function buildMailLink(elId, user, domain) {
+    var el = document.getElementById(elId);
+    if (!el) return;
+    var address = user + '@' + domain;
+    el.setAttribute('href', 'mailto:' + address);
+    el.textContent = address;
+  }
+
+  buildMailLink('js-email-1', 'zhengcw18', 'gmail.com');
+  buildMailLink('js-email-2', 'zhengcw18', 'foxmail.com');
+
   /* =======================
   // Scroll to top
   ======================= */

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data-Driven 3D Neck Modeling and Animation
-image: 3d_neck_thumbnail.png
+image: 3d_neck_thumbnail.jpg
 date: 2020-01-07 0:0:0 +0
 tags: [paper]
 categories: paper
